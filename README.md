@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A sample project where in you can search for users using basic components.
+
 ## Available Scripts
 
 In the project directory, you can run:
